@@ -296,7 +296,7 @@ public class Class1 {
 				System.out.println("I recommend you see Gavin Belson. He is really good with people with fine analogy. His phone number is 438-000-9898");
 			}
 			else if(counseller.contains("couples")) {
-				System.out.println("I recommend you see Donald 'Jared' Dunn. He is really good with couples counselling. They say this guy is amazing. His phone number is 438-333-9898");
+				System.out.println("I recommend you see Donald 'Jared'  Dunn. He is really good with couples counselling. They say this guy is amazing. His phone number is 438-333-9898");
 			}
 			else {
 				System.out.println("I'm sorry I did not understand, let me try that again");
